@@ -41,6 +41,7 @@ export default function Home() {
             <h3 className="font-medium mb-2">Backend</h3>
             <div className="flex flex-wrap gap-2">
               <span className="px-2 py-1 bg-gray-100 text-gray-800 text-sm rounded">Java</span>
+              <span className="px-2 py-1 bg-gray-100 text-gray-800 text-sm rounded">Kotlin</span>
               <span className="px-2 py-1 bg-gray-100 text-gray-800 text-sm rounded">Spring Boot</span>
               <span className="px-2 py-1 bg-gray-100 text-gray-800 text-sm rounded">Spring Framework</span>
               <span className="px-2 py-1 bg-gray-100 text-gray-800 text-sm rounded">Microservices</span>
@@ -61,7 +62,6 @@ export default function Home() {
           <div>
             <h3 className="font-medium mb-2">Other</h3>
             <div className="flex flex-wrap gap-2">
-              <span className="px-2 py-1 bg-gray-100 text-gray-800 text-sm rounded">Kotlin</span>
               <span className="px-2 py-1 bg-gray-100 text-gray-800 text-sm rounded">Git</span>
               <span className="px-2 py-1 bg-gray-100 text-gray-800 text-sm rounded">Database Design</span>
               <span className="px-2 py-1 bg-gray-100 text-gray-800 text-sm rounded">System Architecture</span>
